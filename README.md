@@ -1,3 +1,3 @@
 # Salvare
 
-Salvare é uma insurtech brasileira
+Salvare é uma InsureTech Brasileira
