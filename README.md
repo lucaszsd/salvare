@@ -1,3 +1,3 @@
-# Salvare
+# MaisSeguros
 
-Salvare é uma InsureTech Brasileira
+MaisSeguros é uma InsureTech Brasileira
